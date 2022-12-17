@@ -1,0 +1,12 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background: #ffffff;
+}
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  color: #000000;
+}
+.highlight {
+  color: #2196f3;
+}
